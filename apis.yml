@@ -21,6 +21,10 @@ modified: '2026-04-28'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: GitHubOrganization
+    url: https://github.com/jcpenney
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/jcpenney
   - type: Website
     url: https://www.jcpenney.com
   - type: CorporateWebsite
