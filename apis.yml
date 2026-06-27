@@ -28,7 +28,7 @@ common:
     url: https://www.linkedin.com/company/jcpenney
   - type: Website
     url: https://www.jcpenney.com
-  - type: CorporateWebsite
+  - type: Website
     url: https://corporate.jcpenney.com
 maintainers:
   - FN: Kin Lane
