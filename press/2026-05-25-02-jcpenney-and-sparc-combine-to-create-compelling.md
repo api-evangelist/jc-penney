@@ -1,7 +1,9 @@
 ---
 title: JCPenney and SPARC Combine to Create 'Compelling ...
 url: https://www.pymnts.com/news/retail/2025/jcpenney-and-sparc-combine-to-create-compelling-consumer-value-proposition/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"J.C. Penney" press release artificial intelligence'
 position: 2
 source: serpapi-google

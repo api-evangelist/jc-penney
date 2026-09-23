@@ -1,7 +1,9 @@
 ---
 title: JCPenney shares impact from its AI-powered beauty advisors
 url: https://www.digitalcommerce360.com/2024/11/21/jcpenney-ai-powered-beauty-advisors/
-date: '2026-05-25'
+published: '2024-11-21'
+date_basis: url-derived
+harvested: '2026-05-25'
 query: '"J.C. Penney" press release artificial intelligence'
 position: 5
 source: serpapi-google

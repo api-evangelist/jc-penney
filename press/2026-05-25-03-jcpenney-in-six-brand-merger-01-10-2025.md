@@ -1,7 +1,9 @@
 ---
 title: JCPenney In Six-Brand Merger 01/10/2025
 url: https://www.mediapost.com/publications/article/402459/jcpenney-in-six-brand-merger.html?edition=
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"J.C. Penney" press release artificial intelligence'
 position: 3
 source: serpapi-google
