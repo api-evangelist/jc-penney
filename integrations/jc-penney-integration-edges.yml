@@ -1,0 +1,18 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/jc-penney/integrations
+- https://zapier.com/apps/j-c-penney/integrations
+- https://n8n.io/integrations/jc-penney/
+- https://composio.dev/toolkits/jc-penney
+- https://monid.ai/tools/jc-penney
+checked:
+- https://composio.dev/toolkits/jc-penney
+- https://monid.ai/tools/jc-penney
+- https://n8n.io/integrations/jc-penney/
+- https://zapier.com/apps/j-c-penney/integrations
+- https://zapier.com/apps/jc-penney/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
